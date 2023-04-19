@@ -1,1 +1,1 @@
-generare un programa que imprima "Hola Mundo"
+Generare un programa que imprima "Hola Mundo"
